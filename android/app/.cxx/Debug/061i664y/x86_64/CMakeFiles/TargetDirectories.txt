@@ -1,0 +1,2 @@
+C:/Users/hp/Desktop/Vsahha_flutter/Vsahha_flutter/android/app/.cxx/Debug/061i664y/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/hp/Desktop/Vsahha_flutter/Vsahha_flutter/android/app/.cxx/Debug/061i664y/x86_64/CMakeFiles/rebuild_cache.dir
